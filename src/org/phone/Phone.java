@@ -11,6 +11,7 @@ public class Phone {
 
 	public void phoneInfo(int ramSize, String processor) {
 		System.out.println("Phone ramSize is "+ ramSize+"\n"+"Phone processor is "+ processor);
+		System.out.println("hello");
 	}
 	public static void main(String[] args) {
 		Phone p = new Phone ();
