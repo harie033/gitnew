@@ -14,7 +14,7 @@ public class Phone {
 	}
 	public static void main(String[] args) {
 		Phone p = new Phone ();
-		p.phoneInfo("nokia", 15000);
+		p.phoneInfo("sumsung", 15000);
 		p.phoneInfo(32, "2.5ghz");
 	}
 }
